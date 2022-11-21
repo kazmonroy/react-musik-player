@@ -9,9 +9,9 @@ Music player project built with React from scratch. Installed all the dependenci
 
 ## Tools 🛠️
 
-[React](https://reactjs.org/)
-[Sass](https://sass-lang.com/)
-[Chillhop](https://chillhop.com/)
+- [React](https://reactjs.org/)
+- [Sass](https://sass-lang.com/)
+- [Chillhop](https://chillhop.com/)
 
 ## Installation
 
